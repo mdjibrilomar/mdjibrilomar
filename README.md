@@ -73,7 +73,7 @@
 
 ---
 
-## ⭐ Goals for 2025
+## ⭐ Goals for 2026
 - Build more **C# applications** (desktop, console, utilities).  
 - Learn **backend development** (APIs, databases).  
 - Improve Linux scripting & automation.  
