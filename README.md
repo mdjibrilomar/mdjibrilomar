@@ -45,32 +45,42 @@
 
 ## 📂 Featured Projects
 
+### 🎓 Student Manager
+*A C# console application for managing students and grades.*
 
+- Student profiles
+- Grade calculations
+- Search & display functions
 
-### 🎓 **Student Manager**
-- Student profiles  
-- Grade calculations  
-- Search & display functions  
+---
 
-### 📒 **Task Journal**
-- JSON persistence  
-- Word counter  
+### 📝 Task Journal
+*A personal task journal built with C#.*
+
+- JSON persistence
+- Word counter
 - Statistics & export options
 
-###🗂️ **CSharp File Organizer**
+---
 
--A lightweight C# file organizer that automatically sorts files.
--Automatic file categorization (Images, Documents, Videos, etc.)
--Folder creation
--Duplicate file prevention
--Action logging
+### 🗂️ CSharp File Organizer
+*A lightweight C# file organizer that automatically sorts files.*
 
-###📇 **CSharp Contact Manager**
+- Automatic file categorization (Images, Documents, Videos, etc.)
+- Automatic folder creation
+- Duplicate file prevention
+- Action logging
 
--A simple C# console app to manage contacts.
--Add & remove contacts
--Search functionality
--Uses lists & dictionaries
+---
+
+### 📇 CSharp Contact Manager
+*A simple C# console application to manage contacts.*
+
+- Add & remove contacts
+- Search functionality
+- Uses lists & dictionaries
+
+
 
 ---
 
