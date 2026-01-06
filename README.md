@@ -55,7 +55,22 @@
 ### 📒 **Task Journal**
 - JSON persistence  
 - Word counter  
-- Statistics & export options  
+- Statistics & export options
+
+###🗂️ **CSharp File Organizer**
+
+-A lightweight C# file organizer that automatically sorts files.
+-Automatic file categorization (Images, Documents, Videos, etc.)
+-Folder creation
+-Duplicate file prevention
+-Action logging
+
+###📇 **CSharp Contact Manager**
+
+-A simple C# console app to manage contacts.
+-Add & remove contacts
+-Search functionality
+-Uses lists & dictionaries
 
 ---
 
